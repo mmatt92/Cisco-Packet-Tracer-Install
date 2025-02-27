@@ -60,6 +60,9 @@ Congratulations! Your Installation Is Complete:  <br/>
 Now You Can Configure Your Very Own Virtual Networks:  <br/>
 <img src="https://imgur.com/w9tZlEN.png" height="80%" width="80%" alt="Now You Can Configure Your Virtual Networks"/>
 <img src="https://imgur.com/Eme1Kwd.png" height="80%" width="80%" alt="Now You Can Configure Your Virtual Networks"/>
+<br />
+<br />
+End of lab:
 </p>
 
 <!--
